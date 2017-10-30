@@ -41,7 +41,7 @@
       <file leaf-file-name="changyueba.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/spiders/changyueba.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="780">
               <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -53,16 +53,16 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="540">
               <caret line="38" column="60" lean-forward="false" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
               <folding>
                 <element signature="e#193#231#0" expanded="true" />
-                <marker date="1509359296000" expanded="true" signature="604:702" ph="create table... xiaoshuo" />
-                <marker date="1509359296000" expanded="true" signature="1191:1263" ph="insert into xiaoshuo... " />
-                <marker date="1509359296000" expanded="true" signature="2187:2216" ph="drop table i... " />
-                <marker date="1509359296000" expanded="true" signature="2241:2263" ph="create table... xiaoshuo" />
-                <marker date="1509359296000" expanded="true" signature="2241:2297" ph="create table... xiaoshuo" />
-                <marker date="1509359296000" expanded="true" signature="2315:2362" ph="insert into xiaoshuo... " />
+                <marker date="1509366798000" expanded="true" signature="604:702" ph="create table... xiaoshuo" />
+                <marker date="1509366798000" expanded="true" signature="1191:1263" ph="insert into xiaoshuo... " />
+                <marker date="1509366798000" expanded="true" signature="2187:2216" ph="drop table i... " />
+                <marker date="1509366798000" expanded="true" signature="2241:2263" ph="create table... xiaoshuo" />
+                <marker date="1509366798000" expanded="true" signature="2241:2297" ph="create table... xiaoshuo" />
+                <marker date="1509366798000" expanded="true" signature="2315:2362" ph="insert into xiaoshuo... " />
               </folding>
             </state>
           </provider>
@@ -90,7 +90,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="1380">
               <caret line="92" column="15" lean-forward="false" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
               <folding />
             </state>
@@ -100,8 +100,8 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d35e3605-21c0-4413-927c-3c0ac18c805b/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="52">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,9 +155,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
+    <option name="x" value="101" />
     <option name="y" value="23" />
-    <option name="width" value="1075" />
+    <option name="width" value="1145" />
     <option name="height" value="721" />
   </component>
   <component name="ProjectView">
@@ -175,6 +175,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,8 +206,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,20 +260,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="23" width="1075" height="721" extended-state="0" />
+    <frame x="101" y="23" width="1145" height="721" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20670898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32108626" sideWeight="0.49417758" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24760383" sideWeight="0.5121007" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20217589" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27635783" sideWeight="0.48789933" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21684414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21587609" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6816667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -281,7 +279,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27635783" sideWeight="0.48789933" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6816667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -610,13 +610,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="853">
           <caret line="213" column="4" lean-forward="false" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/spiders/changyueba.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="780">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
@@ -626,7 +625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="1380">
           <caret line="92" column="15" lean-forward="false" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
           <folding />
         </state>
@@ -642,16 +641,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/connectDB/xiaoshuo/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="540">
           <caret line="38" column="60" lean-forward="false" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
           <folding>
             <element signature="e#193#231#0" expanded="true" />
-            <marker date="1509359296000" expanded="true" signature="604:702" ph="create table... xiaoshuo" />
-            <marker date="1509359296000" expanded="true" signature="1191:1263" ph="insert into xiaoshuo... " />
-            <marker date="1509359296000" expanded="true" signature="2187:2216" ph="drop table i... " />
-            <marker date="1509359296000" expanded="true" signature="2241:2263" ph="create table... xiaoshuo" />
-            <marker date="1509359296000" expanded="true" signature="2241:2297" ph="create table... xiaoshuo" />
-            <marker date="1509359296000" expanded="true" signature="2315:2362" ph="insert into xiaoshuo... " />
+            <marker date="1509366798000" expanded="true" signature="604:702" ph="create table... xiaoshuo" />
+            <marker date="1509366798000" expanded="true" signature="1191:1263" ph="insert into xiaoshuo... " />
+            <marker date="1509366798000" expanded="true" signature="2187:2216" ph="drop table i... " />
+            <marker date="1509366798000" expanded="true" signature="2241:2263" ph="create table... xiaoshuo" />
+            <marker date="1509366798000" expanded="true" signature="2241:2297" ph="create table... xiaoshuo" />
+            <marker date="1509366798000" expanded="true" signature="2315:2362" ph="insert into xiaoshuo... " />
           </folding>
         </state>
       </provider>
@@ -665,8 +664,8 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d35e3605-21c0-4413-927c-3c0ac18c805b/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="52">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
