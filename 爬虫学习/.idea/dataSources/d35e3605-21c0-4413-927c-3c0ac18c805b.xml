@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="xiaobei@10.10.8.142">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="mysql">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="amon"/>
+    <schema id="4" parent="1" name="diandian"/>
+    <schema id="5" parent="1" name="hive"/>
+    <schema id="6" parent="1" name="hue"/>
+    <schema id="7" parent="1" name="information_schema"/>
+    <schema id="8" parent="1" name="kele"/>
+    <schema id="9" parent="1" name="monitor"/>
+    <schema id="10" parent="1" name="oozie"/>
+    <schema id="11" parent="1" name="performance_schema"/>
+    <schema id="12" parent="1" name="scmdbn"/>
+    <schema id="13" parent="1" name="sys"/>
+    <schema id="14" parent="1" name="xiaobei">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <table id="15" parent="14" name="xiaoshuo"/>
+    <column id="16" parent="15" name="chapters_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="17" parent="15" name="title">
+      <Position>2</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="18" parent="15" name="textContent">
+      <Position>3</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <key id="19" parent="15" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>chapters_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>
