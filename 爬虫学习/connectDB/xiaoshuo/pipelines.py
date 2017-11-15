@@ -13,11 +13,19 @@ import re
 class XiaoshuoPipeline(object):
 
     def __init__(self):
+        # connect = pymysql.connect(
+        #     user="root",
+        #     password="123456",
+        #     port=3306,
+        #     host="10.10.8.142",
+        #     db="xiaobei",
+        #     charset="utf8"
+        # )
         connect = pymysql.connect(
             user="root",
-            password="123456",
+            password="12345678",
             port=3306,
-            host="10.10.8.142",
+            host="localhost",
             db="xiaobei",
             charset="utf8"
         )

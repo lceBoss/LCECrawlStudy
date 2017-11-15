@@ -55,6 +55,7 @@ class ChangyuebaSpider(scrapy.Spider):
         text = Selector(response=response).xpath('//div[@class="text_c_bottom"]//p/text()').extract()
         next_url = Selector(response=response).xpath('//div[@class="next_page_C"]//a[@class="three"]/@href').extract_first()
 
+        print(next_url + "擦擦擦擦擦擦擦擦擦擦擦啊擦擦擦擦擦")
         item_obj = XiaoshuoItem(title=title, text=text)
         yield item_obj
         # 请求下一页
